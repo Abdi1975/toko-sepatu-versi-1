@@ -1,0 +1,331 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sepatu shop
+</name>
+</assembly>
+<members>
+<member name="T:Sepatu_shop.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Sepatu_shop.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Sepatu_shop.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.barangDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.detail_trans_beliDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.detail_trans_jualDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.karyawanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.kategoriDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.merkDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.satuanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.sizeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.supplierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.trans_beliDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.trans_jualDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.userDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.warnaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.barangRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.detail_trans_beliRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.detail_trans_jualRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.karyawanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.kategoriRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.merkRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.satuanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.sizeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.supplierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.trans_beliRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.trans_jualRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.userRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.warnaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.barangRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.detail_trans_beliRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.detail_trans_jualRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.karyawanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.kategoriRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.merkRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.satuanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.sizeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.supplierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.trans_beliRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.trans_jualRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.userRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1.warnaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.barangTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.detail_trans_beliTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.detail_trans_jualTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.karyawanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.kategoriTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.merkTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.satuanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.sizeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.supplierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.trans_beliTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.trans_jualTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.userTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.warnaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sepatu_shop.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Sepatu_shop.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sepatu_shop.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Sepatu_shop.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sepatu_shop.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Sepatu_shop.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sepatu_shop.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sepatu_shop.DataSet1TableAdapters.TableAdapterManager.UpdateAll(Sepatu_shop.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sepatu_shop.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,896 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\minggu 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|c:\\users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmasterbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmasterbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formtentangaplikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formtentangaplikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\zhelpukuransepatu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\zhelpukuransepatu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\laporankaryawan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\laporankaryawan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmasterwarna.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmasterwarna.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\laporanpenjualan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\laporanpenjualan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\laporansupplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\laporansupplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Sepatu shop||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formcaribarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formcaribarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formauthor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formauthor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\laporanpenjualan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\laporanpenjualan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formlaporanpenjualan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formlaporanpenjualan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmasterkategori.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmasterkategori.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\reportsupplier.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\reportsupplier.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formtentangaplikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formtentangaplikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\laporanbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\laporanbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmastertransaksijual.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmastertransaksijual.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmastertransaksijual.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmastertransaksijual.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmastertransaksibeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmastertransaksibeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmastertransaksibeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmastertransaksibeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmasterbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmasterbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formlaporanpembelian.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formlaporanpembelian.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\koneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\koneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmasteruser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmasteruser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmasterkategori.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmasterkategori.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmasteruser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmasteruser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\laporanpembelian.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\laporanpembelian.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formauthor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formauthor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\reportkaryawan.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\reportkaryawan.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\reportpenjualan.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\reportpenjualan.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\reportbarang.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\reportbarang.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\reportpembelian.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\reportpembelian.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formlaporanbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formlaporanbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formlaporanpembelian.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formlaporanpembelian.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formlaporankaryawan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formlaporankaryawan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmastersupplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmastersupplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formkaryawan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formkaryawan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formlaporansupplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formlaporansupplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmastermerk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmastermerk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmastersatuan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmastersatuan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formmastersize.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formmastersize.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\laporanpembelian.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\laporanpembelian.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formlaporanpenjualan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formlaporanpenjualan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\laporansupplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\laporansupplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formlaporansupplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formlaporansupplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formlaporankaryawan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formlaporankaryawan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\laporankaryawan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\laporankaryawan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\formlaporanbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\formlaporanbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\laporanbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53BBB1E7-EDD2-42CE-B3B4-D11FEA849992}|minggu 7\\Sepatu shop.vbproj|solutionrelative:minggu 7\\laporanbarang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTentangAplikasi.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormTentangAplikasi.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormTentangAplikasi.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormTentangAplikasi.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormTentangAplikasi.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-08T09:45:53.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Home.vb",
+              "RelativeDocumentMoniker": "minggu 7\\Home.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Home.vb [Design]",
+              "RelativeToolTip": "minggu 7\\Home.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T04:46:15.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMasterWarna.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterWarna.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterWarna.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterWarna.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormMasterWarna.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T01:11:37.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LaporanKaryawan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanKaryawan.vb",
+              "RelativeDocumentMoniker": "minggu 7\\LaporanKaryawan.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanKaryawan.vb [Design]",
+              "RelativeToolTip": "minggu 7\\LaporanKaryawan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T00:16:41.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMasterBarang.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterBarang.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterBarang.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterBarang.vb",
+              "RelativeToolTip": "minggu 7\\FormMasterBarang.vb",
+              "ViewState": "AgIAAIUBAAAAAAAAAAAuwJQBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-11T02:00:40.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LaporanPenjualan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanPenjualan.vb",
+              "RelativeDocumentMoniker": "minggu 7\\LaporanPenjualan.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanPenjualan.vb [Design]",
+              "RelativeToolTip": "minggu 7\\LaporanPenjualan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T05:31:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZHelpUkuranSepatu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ZHelpUkuranSepatu.vb",
+              "RelativeDocumentMoniker": "minggu 7\\ZHelpUkuranSepatu.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ZHelpUkuranSepatu.vb [Design]",
+              "RelativeToolTip": "minggu 7\\ZHelpUkuranSepatu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T12:10:30.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LaporanSupplier.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanSupplier.vb",
+              "RelativeDocumentMoniker": "minggu 7\\LaporanSupplier.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanSupplier.vb [Design]",
+              "RelativeToolTip": "minggu 7\\LaporanSupplier.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T06:01:00.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Module1.vb",
+              "RelativeDocumentMoniker": "minggu 7\\Module1.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Module1.vb",
+              "RelativeToolTip": "minggu 7\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-29T04:47:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAuthor.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormAuthor.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormAuthor.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormAuthor.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormAuthor.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T20:05:48.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormLaporanPenjualan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanPenjualan.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormLaporanPenjualan.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanPenjualan.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormLaporanPenjualan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T04:40:23.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Home.vb",
+              "RelativeDocumentMoniker": "minggu 7\\Home.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Home.vb",
+              "RelativeToolTip": "minggu 7\\Home.vb",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwGQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T18:27:37.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "minggu 7\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\DataSet1.xsd",
+              "RelativeToolTip": "minggu 7\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-02T18:11:11.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sepatu shop",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Sepatu shop.vbproj",
+              "RelativeDocumentMoniker": "minggu 7\\Sepatu shop.vbproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Sepatu shop.vbproj",
+              "RelativeToolTip": "minggu 7\\Sepatu shop.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-26T15:21:24.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormCariBarang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormCariBarang.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormCariBarang.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormCariBarang.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormCariBarang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T12:10:10.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormTentangAplikasi.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormTentangAplikasi.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormTentangAplikasi.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormTentangAplikasi.vb",
+              "RelativeToolTip": "minggu 7\\FormTentangAplikasi.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-08T09:46:09.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormMasterKategori.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterKategori.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterKategori.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterKategori.vb",
+              "RelativeToolTip": "minggu 7\\FormMasterKategori.vb",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-11T02:39:39.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LaporanPenjualan.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanPenjualan.vb",
+              "RelativeDocumentMoniker": "minggu 7\\LaporanPenjualan.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanPenjualan.vb",
+              "RelativeToolTip": "minggu 7\\LaporanPenjualan.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T05:44:21.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportSupplier.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ReportSupplier.rdlc",
+              "RelativeDocumentMoniker": "minggu 7\\ReportSupplier.rdlc",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ReportSupplier.rdlc [Design]",
+              "RelativeToolTip": "minggu 7\\ReportSupplier.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-04T06:01:29.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LaporanBarang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanBarang.vb",
+              "RelativeDocumentMoniker": "minggu 7\\LaporanBarang.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanBarang.vb [Design]",
+              "RelativeToolTip": "minggu 7\\LaporanBarang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T17:43:10.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormMasterBarang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterBarang.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterBarang.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterBarang.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormMasterBarang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T01:10:50.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormMasterTransaksiBeli.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterTransaksiBeli.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterTransaksiBeli.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterTransaksiBeli.vb",
+              "RelativeToolTip": "minggu 7\\FormMasterTransaksiBeli.vb",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADsAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T10:37:22.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormMasterTransaksiJual.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterTransaksiJual.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterTransaksiJual.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterTransaksiJual.vb",
+              "RelativeToolTip": "minggu 7\\FormMasterTransaksiJual.vb",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T10:29:46.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormMasterTransaksiJual.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterTransaksiJual.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterTransaksiJual.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterTransaksiJual.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormMasterTransaksiJual.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T01:11:32.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormMasterTransaksiBeli.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterTransaksiBeli.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterTransaksiBeli.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterTransaksiBeli.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormMasterTransaksiBeli.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T01:11:35.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormMasterUser.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterUser.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterUser.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterUser.vb",
+              "RelativeToolTip": "minggu 7\\FormMasterUser.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-11T02:24:19.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Koneksi.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Koneksi.vb",
+              "RelativeDocumentMoniker": "minggu 7\\Koneksi.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Koneksi.vb",
+              "RelativeToolTip": "minggu 7\\Koneksi.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-11T02:54:38.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormLaporanPembelian.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanPembelian.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormLaporanPembelian.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanPembelian.vb",
+              "RelativeToolTip": "minggu 7\\FormLaporanPembelian.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T04:54:48.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormMasterKategori.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterKategori.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterKategori.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterKategori.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormMasterKategori.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T01:10:54.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormMasterUser.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterUser.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterUser.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterUser.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormMasterUser.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T01:11:40.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LaporanPembelian.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanPembelian.vb",
+              "RelativeDocumentMoniker": "minggu 7\\LaporanPembelian.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanPembelian.vb [Design]",
+              "RelativeToolTip": "minggu 7\\LaporanPembelian.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T04:42:46.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReportKaryawan.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ReportKaryawan.rdlc",
+              "RelativeDocumentMoniker": "minggu 7\\ReportKaryawan.rdlc",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ReportKaryawan.rdlc [Design]",
+              "RelativeToolTip": "minggu 7\\ReportKaryawan.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-03T00:17:26.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReportPenjualan.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ReportPenjualan.rdlc",
+              "RelativeDocumentMoniker": "minggu 7\\ReportPenjualan.rdlc",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ReportPenjualan.rdlc [Design]",
+              "RelativeToolTip": "minggu 7\\ReportPenjualan.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-07T18:50:54.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReportBarang.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ReportBarang.rdlc",
+              "RelativeDocumentMoniker": "minggu 7\\ReportBarang.rdlc",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ReportBarang.rdlc [Design]",
+              "RelativeToolTip": "minggu 7\\ReportBarang.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-02T18:13:53.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormAuthor.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormAuthor.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormAuthor.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormAuthor.vb",
+              "RelativeToolTip": "minggu 7\\FormAuthor.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T20:09:13.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReportPembelian.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ReportPembelian.rdlc",
+              "RelativeDocumentMoniker": "minggu 7\\ReportPembelian.rdlc",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\ReportPembelian.rdlc [Design]",
+              "RelativeToolTip": "minggu 7\\ReportPembelian.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-07T19:07:59.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormLaporanBarang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanBarang.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormLaporanBarang.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanBarang.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormLaporanBarang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T04:52:53.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormLaporanPembelian.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanPembelian.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormLaporanPembelian.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanPembelian.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormLaporanPembelian.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T04:47:42.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormLaporanKaryawan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanKaryawan.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormLaporanKaryawan.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanKaryawan.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormLaporanKaryawan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T04:50:53.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormMasterSupplier.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterSupplier.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterSupplier.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterSupplier.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormMasterSupplier.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T01:11:26.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Login.vb",
+              "RelativeDocumentMoniker": "minggu 7\\Login.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Login.vb [Design]",
+              "RelativeToolTip": "minggu 7\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T12:10:28.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Login.vb",
+              "RelativeDocumentMoniker": "minggu 7\\Login.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\Login.vb",
+              "RelativeToolTip": "minggu 7\\Login.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T16:29:27.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormKaryawan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormKaryawan.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormKaryawan.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormKaryawan.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormKaryawan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T12:09:51.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormLaporanSupplier.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanSupplier.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormLaporanSupplier.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanSupplier.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormLaporanSupplier.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T04:54:26.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormMasterMerk.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterMerk.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterMerk.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterMerk.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormMasterMerk.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T01:10:52.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormMasterSatuan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterSatuan.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterSatuan.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterSatuan.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormMasterSatuan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T01:11:23.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormMasterSize.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterSize.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormMasterSize.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormMasterSize.vb [Design]",
+              "RelativeToolTip": "minggu 7\\FormMasterSize.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T01:11:24.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LaporanPembelian.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanPembelian.vb",
+              "RelativeDocumentMoniker": "minggu 7\\LaporanPembelian.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanPembelian.vb",
+              "RelativeToolTip": "minggu 7\\LaporanPembelian.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T04:52:03.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormLaporanPenjualan.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanPenjualan.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormLaporanPenjualan.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanPenjualan.vb",
+              "RelativeToolTip": "minggu 7\\FormLaporanPenjualan.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T04:43:41.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FormLaporanSupplier.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanSupplier.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormLaporanSupplier.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanSupplier.vb",
+              "RelativeToolTip": "minggu 7\\FormLaporanSupplier.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T05:59:00.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LaporanSupplier.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanSupplier.vb",
+              "RelativeDocumentMoniker": "minggu 7\\LaporanSupplier.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanSupplier.vb",
+              "RelativeToolTip": "minggu 7\\LaporanSupplier.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T06:06:46.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FormLaporanKaryawan.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanKaryawan.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormLaporanKaryawan.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanKaryawan.vb",
+              "RelativeToolTip": "minggu 7\\FormLaporanKaryawan.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T00:14:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LaporanKaryawan.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanKaryawan.vb",
+              "RelativeDocumentMoniker": "minggu 7\\LaporanKaryawan.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanKaryawan.vb",
+              "RelativeToolTip": "minggu 7\\LaporanKaryawan.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T00:24:54.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LaporanBarang.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanBarang.vb",
+              "RelativeDocumentMoniker": "minggu 7\\LaporanBarang.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\LaporanBarang.vb",
+              "RelativeToolTip": "minggu 7\\LaporanBarang.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T17:44:28.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormLaporanBarang.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanBarang.vb",
+              "RelativeDocumentMoniker": "minggu 7\\FormLaporanBarang.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\minggu 7\\minggu 7\\FormLaporanBarang.vb",
+              "RelativeToolTip": "minggu 7\\FormLaporanBarang.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T18:23:07.13Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
